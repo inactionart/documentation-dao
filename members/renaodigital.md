@@ -1,7 +1,7 @@
 ---
 description: Founder
 cover: ../.gitbook/assets/profile_photo.jpg
-coverY: -129
+coverY: 166.55359765051395
 ---
 
 # 🛹 renaodigital
