@@ -1,5 +1,7 @@
 ---
 description: Marketing
+cover: ../.gitbook/assets/332910662_1202004013786203_2248806711992962588_n.jpg
+coverY: 0
 ---
 
 # 🕵 Caputo Creatività

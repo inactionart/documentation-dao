@@ -1,5 +1,7 @@
 ---
 description: Developer
+cover: ../.gitbook/assets/bea12777-9b62-499d-9670-1aa742c88df5.jpg
+coverY: 0
 ---
 
 # 👩💻 lotuzio
