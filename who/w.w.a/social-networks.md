@@ -4,7 +4,8 @@ description: Where you can find us?
 
 # Social Networks
 
-**UD Domains:** [https://inactionart.nft/](https://inactionart.nft/) | [https://0x000012.wallet/](https://0x000012.wallet/)
+**UD Domains:** [https://inactionart.nft/](https://inactionart.nft/) | [https://0x000012.wallet/](https://0x000012.wallet/)\
+**ENS Domain (w/ primary address):** Soon
 
 **Instagram:** [https://instagram.com/inactioncollective](https://instagram.com/inactioncollective)
 
@@ -22,7 +23,7 @@ Soundcloud: [https://soundcloud.com/inactioncollective](https://soundcloud.com/i
 
 OpenSea (Primary): [https://opensea.io/iNActionDAO](https://opensea.io/iNActionDAO)
 
-Rarible: ###
+Rarible: Soon.
 
 Discord: [https://discord.com/invite/ZCr5ZBWW4U](https://discord.com/invite/ZCr5ZBWW4U)
 
