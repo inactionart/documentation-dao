@@ -6,4 +6,11 @@ coverY: 166.55359765051395
 
 # 🛹 renaodigital
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nec tellus metus. Cras sed luctus justo. Integer faucibus eleifend erat, viverra aliquam libero dapibus a. Nam pellentesque erat ut libero facilisis tempus ac a nibh. Aenean sit amet venenatis velit. Nam vitae turpis sit amet lorem vehicula cursus. Nam quis faucibus orci. Sed mattis massa a odio consectetur faucibus porttitor sit amet lectus. Duis id nisi ullamcorper, congue felis ac, porttitor ipsum. Quisque egestas accumsan lacus. Fusce quis velit at tortor fringilla bibendum vel ac quam. Cras commodo sapien magna, sit amet convallis enim commodo at. Integer tempor imperdiet nulla, eu rutrum elit placerat vitae. Nullam vitae semper nulla. Sed interdum, mauris sit amet lobortis vestibulum, quam massa pellentesque lacus, et gravida sapien elit eget elit. In rutrum laoreet scelerisque.
+\
+Audiophile, multiartist. Across the globe, doing some jobs, taking some photographies and documentaries, Renão lives on your own essence. As a son of an architect and a bachelor in law, having the best inspiration to collaborate in portuguese, english and spanish. As a bilingual one, want to interact with academicist and university corpus, Researching and generating content, connecting DAOs? Maybe. While trying to do your best, by executing some function or demand.\
+\
+Skater, eSports analyst, ex-fan of traditional sports and poem writer. Liking the Bass Cannon (from Flux Pavilion) or the Mask (from Cavalier). Content Creator, Designer and Cinephile with experience by working while generating copywrited content. Conselheira101, Serh1 Consultoria, NUPED/pre-UFPel, Nike, Sparkoff, PSOL, always in contact with culture or corporative and institutional causes.\
+\
+Always trying to perform an unique experience between the layers of life. Inspired by art, design, and science. Entered in web2 with 7 years old and discovering web3 in 2021, by some demmands directly dynamized with music, executive producing and directing people to do something. \
+\
+**I'll be programming, with my art!**
