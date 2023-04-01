@@ -6,14 +6,30 @@ coverY: -205
 
 # W.W.A
 
-## Art + Programming
+## Art + Programming (AND TALKING!)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar mollis luctus. Fusce mauris magna, malesuada consequat ornare nec, dapibus nec enim. Sed vitae accumsan massa. Mauris eget lorem in lorem iaculis pellentesque in ac dolor. Maecenas posuere ex viverra urna laoreet consequat. Integer vitae efficitur nibh. Curabitur bibendum, libero faucibus rhoncus convallis, ligula mauris condimentum ex, nec aliquet nunc leo vel ligula. Donec aliquam, eros nec imperdiet lacinia, turpis velit iaculis magna, ac fringilla urna tortor at risus. Fusce et augue semper, rutrum mi eget, tincidunt neque. Donec tincidunt a est vitae rutrum. Curabitur tempor in neque sed tempus. Ut vitae tellus ut nibh sollicitudin molestie et sed urna. In sit amet elit lorem.
+We build and generate some data, by the mind, right? We want these minds talking and producing some visual and phonetic talks. Some call, voices, emerging from some mysteries from life. Focused on make some decentralized stuff, we need you. Opening the links, comenting, liking the photos, inspired or searching some reference to your corporative or universitary work, you know? Y'all be welcome on our Discord or Social Network/Communities. \
+\
+Always remember it!? Right?\
+**Doing our best while you do your own part!**\
+**IRL & on Metaverse**
 
 ### Web2 + Web3&#x20;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar mollis luctus. Fusce mauris magna, malesuada consequat ornare nec, dapibus nec enim. Sed vitae accumsan massa. Mauris eget lorem in lorem iaculis pellentesque in ac dolor. Maecenas posuere ex viverra urna laoreet consequat. Integer vitae efficitur nibh. Curabitur bibendum, libero faucibus rhoncus convallis, ligula mauris condimentum ex, nec aliquet nunc leo vel ligula. Donec aliquam, eros nec imperdiet lacinia, turpis velit iaculis magna, ac fringilla urna tortor at risus. Fusce et augue semper, rutrum mi eget, tincidunt neque. Donec tincidunt a est vitae rutrum. Curabitur tempor in neque sed tempus. Ut vitae tellus ut nibh sollicitudin molestie et sed urna. In sit amet elit lorem.
+Starting with some _.com_ domain and with some _direct web2 channels_. Wanting more with some UD Domains, ENS Domains and connecting some tokens and protocols pretending to do some **BAM!** with regenerative, decentralized and creative content made for community and by them. Connecting these 2 people (from web2 and web3). We always win something, generating with some artificial intellingence or augmented reality. \
+\
+Only with collabs? Paying and recycling it, **if you want**.\
+We do what you want, talking and resolving.\
 
-#### &#x20;Helping to generate a new Ecosystem
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar mollis luctus. Fusce mauris magna, malesuada consequat ornare nec, dapibus nec enim. Sed vitae accumsan massa. Mauris eget lorem in lorem iaculis pellentesque in ac dolor. Maecenas posuere ex viverra urna laoreet consequat. Integer vitae efficitur nibh. Curabitur bibendum, libero faucibus rhoncus convallis, ligula mauris condimentum ex, nec aliquet nunc leo vel ligula. Donec aliquam, eros nec imperdiet lacinia, turpis velit iaculis magna, ac fringilla urna tortor at risus. Fusce et augue semper, rutrum mi eget, tincidunt neque. Donec tincidunt a est vitae rutrum. Curabitur tempor in neque sed tempus. Ut vitae tellus ut nibh sollicitudin molestie et sed urna. In sit amet elit lorem.
+**Helping to generate a new Ecosystem**
+
+You have to talk that we are always converting your mind in actions, words and gesting. All day, you run, work, hug a member of your family or cat/pet. Your feelings are always there, a human is not totally racional, you know!? Talk, extrovert, drink a beer and repeat "for what motive i'm living this generation?".\
+\
+Times up, bling! \
+\
+The bright can blind you but you have to act. New technologies and update's coming. Worlds translating, rotating and you? You coming together, w/ the collective. Always iNAction, growing your own economy (regenerative) for your family and friends have a nice future. Remember it, not always alone. \
+\
+Together.\
+_**Harder, Better, Faster, Stronger**_\
+as [**Daft Punk**](https://daftpunk.fandom.com/wiki/Daft\_Punk)****
