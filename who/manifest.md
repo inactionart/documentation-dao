@@ -23,7 +23,7 @@ You will change, will play\
 \
 The player and the prayer\
 United as one\
-Baking some ton\
+Baking some tone\
 \
 Always iNAction\
 Sempre eNAcción\
