@@ -1,7 +1,7 @@
 ---
 description: Founder
-cover: ../.gitbook/assets/profile_photo.jpg
-coverY: 166.55359765051395
+cover: ../.gitbook/assets/photo_2023-06-25_17-11-22.jpg
+coverY: 0
 ---
 
 # 🛹 renaodigital

@@ -17,7 +17,7 @@
 
 * [🛹 renaodigital](members/renaodigital.md)
 * [👩💻 lotuzio](members/lotuzio.md)
-* [🕵 Rafael Caputo](members/rafael-caputo.md)
+* [🕵 Rafael Caputo](members/caputo-creativita.md)
 
 ## 🪄 Gurus
 
