@@ -6,6 +6,7 @@
 * [Manifest](who/manifest.md)
 * [W.W.A](who/w.w.a/README.md)
   * [Social Networks](who/w.w.a/social-networks.md)
+* [Discord (Comunidade)](who/discord-comunidade.md)
 
 ## 🏁 Roadmap
 
