@@ -26,7 +26,7 @@ We do what you want, talking and resolving.\
 
 You have to talk that we are always converting your mind in actions, words and gesting. All day, you run, work, hug a member of your family or cat/pet. Your feelings are always there, a human is not totally racional, you know!? Talk, extrovert, drink a beer and repeat "for what motive i'm living this generation?".\
 \
-Times up, bling! \
+**Times up, bling!** \
 \
 The bright can blind you but you have to act. New technologies and update's coming. Worlds translating, rotating and you? You coming together, w/ the collective. Always iNAction, growing your own economy (regenerative) for your family and friends have a nice future. Remember it, not always alone. \
 \
