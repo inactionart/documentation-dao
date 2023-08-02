@@ -10,7 +10,12 @@
   * [Rules](who/discord-comunidade/rules.md)
   * [Membership & Pass](who/discord-comunidade/membership-and-pass.md)
   * [Roles](who/discord-comunidade/roles.md)
-  * [Channels](who/discord-comunidade/channels.md)
+  * [Channels](who/discord-comunidade/channels/README.md)
+    * [Founder](who/discord-comunidade/channels/founder.md)
+    * [iNAction](who/discord-comunidade/channels/inaction/README.md)
+      * [Page 1](who/discord-comunidade/channels/inaction/page-1.md)
+    * [Soft Member](who/discord-comunidade/channels/soft-member.md)
+    * [Premium Member](who/discord-comunidade/channels/premium-member.md)
 
 ## 🏁 Roadmap
 
