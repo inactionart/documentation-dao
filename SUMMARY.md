@@ -33,7 +33,10 @@
         * [Rules](who/discord-community/channels/member/all-starts-here/rules.md)
         * [Community Updates](who/discord-community/channels/member/all-starts-here/community-updates.md)
       * [Partners](who/discord-community/channels/member/partners.md)
-      * [That's iNAction Fam](who/discord-community/channels/member/thats-inaction-fam.md)
+      * [That's iNAction fam](who/discord-community/channels/member/thats-inaction-fam/README.md)
+        * [Tweets](who/discord-community/channels/member/thats-inaction-fam/tweets.md)
+        * [Instagram (Posts)](who/discord-community/channels/member/thats-inaction-fam/instagram-posts.md)
+        * [Sales + Mints](who/discord-community/channels/member/thats-inaction-fam/sales-+-mints.md)
 
 ## 🏁 Roadmap
 
