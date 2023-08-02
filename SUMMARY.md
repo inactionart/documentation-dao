@@ -45,6 +45,7 @@
         * [Instagram (Posts)](who/discord-community/channels/member/thats-inaction-fam/instagram-posts.md)
         * [Sales + Mints](who/discord-community/channels/member/thats-inaction-fam/sales-+-mints.md)
       * [Events Chat](who/discord-community/channels/member/events-chat.md)
+      * [Roadmap](who/discord-community/channels/member/roadmap.md)
       * [Whitepaper](who/discord-community/channels/member/whitepaper.md)
       * [Talks](who/discord-community/channels/member/talks.md)
 
