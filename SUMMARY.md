@@ -9,6 +9,8 @@
 * [Discord (Comunidade)](who/discord-comunidade/README.md)
   * [Rules](who/discord-comunidade/rules.md)
   * [Membership & Pass](who/discord-comunidade/membership-and-pass.md)
+  * [Roles](who/discord-comunidade/roles.md)
+  * [Channels](who/discord-comunidade/channels.md)
 
 ## 🏁 Roadmap
 
