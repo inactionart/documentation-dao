@@ -32,4 +32,4 @@ The bright can blind you but you have to act. New technologies and update's comi
 \
 Together.\
 _**Harder, Better, Faster, Stronger**_\
-as [**Daft Punk**](https://daftpunk.fandom.com/wiki/Daft\_Punk)****
+as [**Daft Punk**](https://daftpunk.fandom.com/wiki/Daft\_Punk)
