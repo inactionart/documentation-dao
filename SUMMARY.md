@@ -6,7 +6,9 @@
 * [Manifest](who/manifest.md)
 * [W.W.A](who/w.w.a/README.md)
   * [Social Networks](who/w.w.a/social-networks.md)
-* [Discord (Comunidade)](who/discord-comunidade.md)
+* [Discord (Comunidade)](who/discord-comunidade/README.md)
+  * [Rules](who/discord-comunidade/rules.md)
+  * [Membership & Pass](who/discord-comunidade/membership-and-pass.md)
 
 ## 🏁 Roadmap
 
