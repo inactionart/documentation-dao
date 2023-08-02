@@ -26,7 +26,14 @@
         * [Videomaking & Filmmaking](who/discord-community/channels/inaction/staff/videomaking-and-filmmaking.md)
         * [bot-commands](who/discord-community/channels/inaction/staff/bot-commands.md)
     * [Premium Member](who/discord-community/channels/premium-member.md)
-    * [Soft Member](who/discord-community/channels/soft-member.md)
+    * [Soft Member](who/discord-community/channels/soft-member/README.md)
+      * [General](who/discord-community/channels/soft-member/general.md)
+      * [Ideas & Feedback](who/discord-community/channels/soft-member/ideas-and-feedback.md)
+      * [Roadmap](who/discord-community/channels/soft-member/roadmap.md)
+      * [Talks 2](who/discord-community/channels/soft-member/talks-2.md)
+      * [Talks 3](who/discord-community/channels/soft-member/talks-3.md)
+      * [Talks 4](who/discord-community/channels/soft-member/talks-4.md)
+      * [Talks 5](who/discord-community/channels/soft-member/talks-5.md)
     * [Member](who/discord-community/channels/member/README.md)
       * [All Starts Here](who/discord-community/channels/member/all-starts-here/README.md)
         * [Welcome](who/discord-community/channels/member/all-starts-here/welcome.md)
@@ -37,6 +44,9 @@
         * [Tweets](who/discord-community/channels/member/thats-inaction-fam/tweets.md)
         * [Instagram (Posts)](who/discord-community/channels/member/thats-inaction-fam/instagram-posts.md)
         * [Sales + Mints](who/discord-community/channels/member/thats-inaction-fam/sales-+-mints.md)
+      * [Events Chat](who/discord-community/channels/member/events-chat.md)
+      * [Whitepaper](who/discord-community/channels/member/whitepaper.md)
+      * [Talks](who/discord-community/channels/member/talks.md)
 
 ## 🏁 Roadmap
 
