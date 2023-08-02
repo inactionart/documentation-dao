@@ -31,6 +31,7 @@
         * [Ideas & Feedback](who/discord-community/channels/premium-member/premium-category/ideas-and-feedback.md)
         * [About AI & AR](who/discord-community/channels/premium-member/premium-category/about-ai-and-ar.md)
         * [About Programming](who/discord-community/channels/premium-member/premium-category/about-programming.md)
+        * [Writing, Reviewing, Designing & Illustrating (Dework)](who/discord-community/channels/premium-member/premium-category/writing-reviewing-designing-and-illustrating-dework.md)
         * [Dework (What?)](who/discord-community/channels/premium-member/premium-category/dework-what.md)
       * [Art as a Way of Survival](who/discord-community/channels/premium-member/art-as-a-way-of-survival.md)
       * [Roadmap](who/discord-community/channels/premium-member/roadmap.md)
