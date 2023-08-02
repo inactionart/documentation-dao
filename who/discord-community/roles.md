@@ -26,9 +26,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vestibulum pellen
 4. <mark style="color:orange;">**AR Specialist**</mark>
 5. <mark style="color:orange;">**AI Entusiast**</mark>
 6. <mark style="color:orange;">**AR Entusiast**</mark>
-7. <mark style="color:orange;">**Music Producer**</mark>
-8. <mark style="color:orange;">**Video Producer**</mark>
-9. <mark style="color:orange;">**Creator (Content Creator)**</mark>
+7. <mark style="color:orange;">**Social Media Entusiast**</mark>
+8. <mark style="color:orange;">**Music Producer**</mark>
+9. <mark style="color:orange;">**Video Producer**</mark>
+10. <mark style="color:orange;">**Creator (Content Creator)**</mark>
+11. <mark style="color:orange;">**Social Media**</mark>
 
 ## Soft Member
 
