@@ -50,6 +50,7 @@
       * [All Starts Here](who/discord-community/channels/member/all-starts-here/README.md)
         * [Welcome](who/discord-community/channels/member/all-starts-here/welcome.md)
         * [Rules](who/discord-community/channels/member/all-starts-here/rules.md)
+        * [Manifesto](who/discord-community/channels/member/all-starts-here/manifesto.md)
         * [Community Updates](who/discord-community/channels/member/all-starts-here/community-updates.md)
       * [Partners](who/discord-community/channels/member/partners.md)
       * [That's iNAction fam](who/discord-community/channels/member/thats-inaction-fam/README.md)
