@@ -6,19 +6,23 @@ description: How we organize the community?
 
 ## Founder
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vestibulum pellentesque enim. Fusce id nulla non nulla tempus ultricies. Suspendisse potenti. Ut varius ligula dui, non tempor lacus blandit quis. Donec dictum turpis sit amet lacus laoreet porta. Sed vitae nibh sagittis, lobortis metus fringilla, blandit quam. Vestibulum ut consectetur massa. Nullam ultricies, nisi consectetur pellentesque egestas, metus lacus interdum diam, at dignissim turpis diam maximus massa. Vivamus maximus dolor eu ipsum placerat semper ut vitae leo. Vestibulum in sapien sed turpis fermentum tristique et vitae ante. Suspendisse sed lorem turpis. Vivamus pellentesque, risus in sodales ornare, lectus eros rutrum odio, et elementum metus tellus ut nulla. Ut fringilla molestie lacus vel ultrices. Integer ac placerat orci, at consectetur elit. Donec at sem pellentesque, dignissim elit at, rutrum orci.
+An exclusive role for who founded the iNAction Collective 2/3 years ago.
 
 ## iNAction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vestibulum pellentesque enim. Fusce id nulla non nulla tempus ultricies. Suspendisse potenti. Ut varius ligula dui, non tempor lacus blandit quis. Donec dictum turpis sit amet lacus laoreet porta. Sed vitae nibh sagittis, lobortis metus fringilla, blandit quam. Vestibulum ut consectetur massa. Nullam ultricies, nisi consectetur pellentesque egestas, metus lacus interdum diam, at dignissim turpis diam maximus massa. Vivamus maximus dolor eu ipsum placerat semper ut vitae leo. Vestibulum in sapien sed turpis fermentum tristique et vitae ante. Suspendisse sed lorem turpis. Vivamus pellentesque, risus in sodales ornare, lectus eros rutrum odio, et elementum metus tellus ut nulla. Ut fringilla molestie lacus vel ultrices. Integer ac placerat orci, at consectetur elit. Donec at sem pellentesque, dignissim elit at, rutrum orci.
+You're a INAction member by the pass or inviting? Here's your role.
 
 ## Guru
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vestibulum pellentesque enim. Fusce id nulla non nulla tempus ultricies. Suspendisse potenti. Ut varius ligula dui, non tempor lacus blandit quis. Donec dictum turpis sit amet lacus laoreet porta. Sed vitae nibh sagittis, lobortis metus fringilla, blandit quam. Vestibulum ut consectetur massa. Nullam ultricies, nisi consectetur pellentesque egestas, metus lacus interdum diam, at dignissim turpis diam maximus massa. Vivamus maximus dolor eu ipsum placerat semper ut vitae leo. Vestibulum in sapien sed turpis fermentum tristique et vitae ante. Suspendisse sed lorem turpis. Vivamus pellentesque, risus in sodales ornare, lectus eros rutrum odio, et elementum metus tellus ut nulla. Ut fringilla molestie lacus vel ultrices. Integer ac placerat orci, at consectetur elit. Donec at sem pellentesque, dignissim elit at, rutrum orci.
+Who helped to grow everything, helping the founder with some ideas to happen in iNAction, surnamed "Gurus".\
+\
+They make the difference by living and taking some hard decisios envolving the crypto market.
 
 ## Premium Member
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vestibulum pellentesque enim. Fusce id nulla non nulla tempus ultricies. Suspendisse potenti. Ut varius ligula dui, non tempor lacus blandit quis. Donec dictum turpis sit amet lacus laoreet porta. Sed vitae nibh sagittis, lobortis metus fringilla, blandit quam. Vestibulum ut consectetur massa. Nullam ultricies, nisi consectetur pellentesque egestas, metus lacus interdum diam, at dignissim turpis diam maximus massa. Vivamus maximus dolor eu ipsum placerat semper ut vitae leo. Vestibulum in sapien sed turpis fermentum tristique et vitae ante. Suspendisse sed lorem turpis. Vivamus pellentesque, risus in sodales ornare, lectus eros rutrum odio, et elementum metus tellus ut nulla. Ut fringilla molestie lacus vel ultrices. Integer ac placerat orci, at consectetur elit. Donec at sem pellentesque, dignissim elit at, rutrum orci.
+You can help us to generate a best web3 for all who likes it. Doing some activities that are in our roadmap or related directly to authoral projects, organized by some intern members.
+
+Do your stuff, we will regard you, certainly.
 
 1. <mark style="color:orange;">**Programmer**</mark>
 2. <mark style="color:orange;">**Artist**</mark>
@@ -34,7 +38,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vestibulum pellen
 
 ## Soft Member
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vestibulum pellentesque enim. Fusce id nulla non nulla tempus ultricies. Suspendisse potenti. Ut varius ligula dui, non tempor lacus blandit quis. Donec dictum turpis sit amet lacus laoreet porta. Sed vitae nibh sagittis, lobortis metus fringilla, blandit quam. Vestibulum ut consectetur massa. Nullam ultricies, nisi consectetur pellentesque egestas, metus lacus interdum diam, at dignissim turpis diam maximus massa. Vivamus maximus dolor eu ipsum placerat semper ut vitae leo. Vestibulum in sapien sed turpis fermentum tristique et vitae ante. Suspendisse sed lorem turpis. Vivamus pellentesque, risus in sodales ornare, lectus eros rutrum odio, et elementum metus tellus ut nulla. Ut fringilla molestie lacus vel ultrices. Integer ac placerat orci, at consectetur elit. Donec at sem pellentesque, dignissim elit at, rutrum orci.
+You recently came to web3, but you can do something great too, i believe in your words my friend.
+
+Came with us in this journing, writing, designing our auditing. You'll be always welcome to help the growing.
 
 * <mark style="color:orange;">**Writer**</mark>
 * <mark style="color:orange;">**Copywriter**</mark>
