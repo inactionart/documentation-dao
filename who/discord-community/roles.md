@@ -40,7 +40,7 @@ Do your stuff, we will regard you, certainly.
 
 You recently came to web3, but you can do something great too, i believe in your words my friend.
 
-Came with us in this journing, writing, designing our auditing. You'll be always welcome to help the growing.
+Came with us in this journey, writing, designing our auditing. You'll be always welcome to help the growing.
 
 * <mark style="color:orange;">**Writer**</mark>
 * <mark style="color:orange;">**Copywriter**</mark>
