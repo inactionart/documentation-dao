@@ -14,7 +14,7 @@ You're a INAction member by the pass or inviting? Here's your role.
 
 ## Guru
 
-Who helped to grow everything, helping the founder with some ideas to happen in iNAction, surnamed "Gurus".\
+Who helped to grow everything, helping the founder with some ideas to happen in iNAction, nicknamed "Gurus".\
 \
 They make the difference by living and taking some hard decisios envolving the crypto market.
 
