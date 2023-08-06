@@ -30,6 +30,6 @@ The payments of activities are made by [Gnosis Safe](https://safe.global/), too
 
 A pass to be a member and have access to all the rooms that we disposed to our members. Here you can dialog with invited members, too. Sharing some cool things in private rooms, you can solve something talking in Talks 2, 3, 4 and 5.&#x20;
 
-You're free to be iNAction, and we are with you in this journey to be a best artist in web2/web3. We want the progress and your progress. We'll help you, supporting, selling, offering the best ways to put such a good thing in you journey as a web3 contributor and member of "the bubble".
+You're free to be iNAction, and we are with you in this journey to be a best artist in web2/web3. We want the progress and your progress. We'll help you, supporting, selling, offering the best ways to put such a good thing in your journey as a _web3_ contributor and member of "the bubble".
 
 You can contribute and interact w/ **Soft** & **Premium** members? Yup.
