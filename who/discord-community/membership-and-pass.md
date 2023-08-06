@@ -6,12 +6,30 @@ description: Passes | Categories
 
 ## Soft Member
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vestibulum pellentesque enim. Fusce id nulla non nulla tempus ultricies. Suspendisse potenti. Ut varius ligula dui, non tempor lacus blandit quis. Donec dictum turpis sit amet lacus laoreet porta. Sed vitae nibh sagittis, lobortis metus fringilla, blandit quam. Vestibulum ut consectetur massa. Nullam ultricies, nisi consectetur pellentesque egestas, metus lacus interdum diam, at dignissim turpis diam maximus massa. Vivamus maximus dolor eu ipsum placerat semper ut vitae leo. Vestibulum in sapien sed turpis fermentum tristique et vitae ante. Suspendisse sed lorem turpis. Vivamus pellentesque, risus in sodales ornare, lectus eros rutrum odio, et elementum metus tellus ut nulla. Ut fringilla molestie lacus vel ultrices. Integer ac placerat orci, at consectetur elit. Donec at sem pellentesque, dignissim elit at, rutrum orci.
+A person who recently came to web3. He or she didn't know how to make a wallet or the principal websites to catch some updates about the market. This pass is made for her/him. To discover a new world and to share all these stuffs.&#x20;
+
+By some traditional ways, you can write, copywrite, audit, design, direct and make some marketing or a collection of NFTs by [Dework](https://app.dework.xyz/inaction-collective) activites. Writing in our website, publishing some activies on our social networks, all in a catalog to be listed and batch payed by [Gnosis Safe](https://safe.global/).
+
+All the purposes will be disposed. Because we are decentralized, all the content will be shared to our public or contributors by the best way possible.
 
 ## Premium Member
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vestibulum pellentesque enim. Fusce id nulla non nulla tempus ultricies. Suspendisse potenti. Ut varius ligula dui, non tempor lacus blandit quis. Donec dictum turpis sit amet lacus laoreet porta. Sed vitae nibh sagittis, lobortis metus fringilla, blandit quam. Vestibulum ut consectetur massa. Nullam ultricies, nisi consectetur pellentesque egestas, metus lacus interdum diam, at dignissim turpis diam maximus massa. Vivamus maximus dolor eu ipsum placerat semper ut vitae leo. Vestibulum in sapien sed turpis fermentum tristique et vitae ante. Suspendisse sed lorem turpis. Vivamus pellentesque, risus in sodales ornare, lectus eros rutrum odio, et elementum metus tellus ut nulla. Ut fringilla molestie lacus vel ultrices. Integer ac placerat orci, at consectetur elit. Donec at sem pellentesque, dignissim elit at, rutrum orci.
+For advanced users in the market, a programmer, artist, AI & AR specialists, social media, music or video producer, creator...\
+\
+Here is a membership to you. Who search constantly and invests a lot of time doing stuff for you and some DAOs.
+
+You can't have some graduation to make something here, in [INAction Community](https://discord.gg/9z76caYWWe). Is always good to have some privacy developing something that never happened. Do all in your time, think and publish it on [Dework](https://app.dework.xyz/inaction-collective) or [GitHub](https://github.com/inactionart).
+
+Programming some bars, doing some cool images with AI/AR. Do it cool and in your time, using techniques or something modern, sharing it with us using your own works or the [Premium Chat](https://discord.gg/FR9vs3AvsV).
+
+You're welcome and _**let's get it**_!
+
+The payments of activities are made by [Gnosis Safe](https://safe.global/), too
 
 ## iNAction Pass
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vestibulum pellentesque enim. Fusce id nulla non nulla tempus ultricies. Suspendisse potenti. Ut varius ligula dui, non tempor lacus blandit quis. Donec dictum turpis sit amet lacus laoreet porta. Sed vitae nibh sagittis, lobortis metus fringilla, blandit quam. Vestibulum ut consectetur massa. Nullam ultricies, nisi consectetur pellentesque egestas, metus lacus interdum diam, at dignissim turpis diam maximus massa. Vivamus maximus dolor eu ipsum placerat semper ut vitae leo. Vestibulum in sapien sed turpis fermentum tristique et vitae ante. Suspendisse sed lorem turpis. Vivamus pellentesque, risus in sodales ornare, lectus eros rutrum odio, et elementum metus tellus ut nulla. Ut fringilla molestie lacus vel ultrices. Integer ac placerat orci, at consectetur elit. Donec at sem pellentesque, dignissim elit at, rutrum orci.
+A pass to be a member and have access to all the rooms that we disposed to our members. Here you can dialog with invited members, too. Sharing some cool things in private rooms, you can solve something talking in Talks 2, 3, 4 and 5.&#x20;
+
+You're free to be iNAction, and we are with you in this journey to be a best artist in web2/web3. We want the progress and your progress. We'll help you, supporting, selling, offering the best ways to put such a good thing in you journey as a web3 contributor and member of "the bubble".
+
+You can contribute and interact w/ **Soft** & **Premium** members? Yup.
