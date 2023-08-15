@@ -4,7 +4,7 @@
 
 * [Origin](README.md)
 * [Manifest](who/manifest.md)
-* [Whitepaper](who/whitepaper.md)
+* [Whitepaper (PT-BR)](who/whitepaper-pt-br.md)
 * [W.W.A](who/w.w.a/README.md)
   * [Social Networks](who/w.w.a/social-networks.md)
 * [Discord (Community)](who/discord-community/README.md)

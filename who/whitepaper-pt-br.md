@@ -2,10 +2,8 @@
 description: Which are our objectives?
 ---
 
-# Whitepaper
+# Whitepaper (PT-BR)
 
-**PT-BR**\
-\
 O projeto iNAction foi originalmente desenvolvido para apoiar artistas da web2, web3 ou que estão em transição, de um mercado para outro ou de um ramo para outro. Através de uma série de atividades que seriam co-criadas e feitas colaborativamente, o coletivo por si mesmo seria construído. Desde a sua documentação, até o mapeamento da sua jornada (para prevenção de passos presentes e futuros) o coletivo será desenvolvido até andar por si só.&#x20;
 
 Nosso objetivo, enquanto parte do mesmo todo, é fazer com que vários tipos de artistas + designers (tanto plásticos, quanto cientistas) se sintam confortáveis para desenvolver no mesmo ecossistema. Através de um canal do Discord e do Dework, os próprios sejam remunerados justamente para cumprir com suas atividades que fariam o coletivo progredir, linearmente? Não. Mas com um processo que envolva aprendizado e interações entre diversos públicos. Entre esses projetos, seriam desenvolvidos outras coleções e exposições, internamente e com a colaboração de pessoas que já estariam engajadas.
