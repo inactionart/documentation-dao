@@ -70,11 +70,11 @@
 * [2 | Still Gettin' It](roadmap/2-or-still-gettin-it.md)
 * [3 | Performance](roadmap/3-or-performance.md)
 
-## 🌐 Members
+## 🌐 Collaborators
 
-* [🛹 renaodigital](members/renaodigital.md)
-* [👩💻 lotuzio](members/lotuzio.md)
-* [🕵 Rafael Caputo](members/caputo-creativita.md)
+* [🛹 renaodigital](collaborators/renaodigital.md)
+* [👩💻 lotuzio](collaborators/lotuzio.md)
+* [🕵 Rafael Caputo](collaborators/rafael-caputo.md)
 
 ## 🪄 Gurus
 
