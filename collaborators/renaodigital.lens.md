@@ -4,13 +4,12 @@ cover: ../.gitbook/assets/photo_2023-06-25_17-11-22.jpg
 coverY: 0
 ---
 
-# 🛹 renaodigital
+# 🛹 renaodigital.lens
 
-\
-Audiophile, multiartist. Across the globe, doing some jobs, taking some photographies and making documentaries, Renão lives on your own essence. As a son of an architect and a bachelor in law, having the best inspiration to collaborate in portuguese, english and spanish. As a bilingual one, want to interact with academicist and university corpus, Researching and generating content, connecting DAOs? Maybe. While trying to do your best, by executing some function or demand.\
-\
-Skater, eSports analyst, ex-fan of traditional sports and poem writer. Liking the Bass Cannon (from Flux Pavilion) or the Masks (from Cavalier). Content Creator, Designer and Cinephile with experience by working while generating copywrited content. Conselheira101, Serh1 Consultoria, NUPED/PRE-UFPel, Nike, Sparkoff, PSOL, always in contact with culture or corporative and institutional causes and cases.\
-\
-Always trying to perform an unique experience between the layers of life. Inspired by art, design, and science. Entered in web2 with 7 years old and discovering web3 in 2021, by some demmands directly dynamized with music, executive producing and directing people to do something. \
-\
-**I'll be programming, with my art!**
+Audiophile, multi-artist. Traveling the globe, working various jobs, taking photographs, and making documentaries, Renão lives by his own essence. As the son of an architect and a law graduate, he finds inspiration to collaborate in Portuguese, English, and Spanish. As a bilingual individual, he seeks to interact with academic and university communities. Researching and generating content, connecting DAOs? Perhaps. He is always striving to do his best, fulfilling various roles and tasks.
+
+Skater, eSports analyst, former fan of traditional sports, and poet. He enjoys “Bass Cannon” by Flux Pavilion and “Masks” by Cavalier. As a content creator, designer, and cinephile, he has experience working while generating copyrighted content. He has worked with Conselheira101, Serh1 Consultoria, NUPED/PRE-UFPel, Nike, Sparkoff, and PSOL, always engaging with cultural, corporate, and institutional causes and cases.
+
+He is always striving to create a unique experience amidst the layers of life, drawing inspiration from art, design, and science. He entered the world of Web 2.0 at the age of 7 and discovered Web 3.0 in 2021, driven by demands directly related to music, executive production, and directing people to take action.
+
+**He will be programming, with his art!**
