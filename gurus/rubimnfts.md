@@ -1,5 +1,5 @@
 ---
-description: Crypto Warriors
+description: Crypto Warrior
 ---
 
 # 🎨 RubimNFTs
