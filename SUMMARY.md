@@ -73,8 +73,9 @@
 ## 🌐 Collaborators
 
 * [🛹 renaodigital](collaborators/renaodigital.md)
-* [👩💻 lotuzio](collaborators/lotuzio.md)
 * [🕵 Rafael Caputo](collaborators/rafael-caputo.md)
+* [😎 pablofelix.eth](collaborators/pablofelix.eth.md)
+* [📱 Leonardo Passos](collaborators/leonardo-passos.md)
 
 ## 🪄 Gurus
 
