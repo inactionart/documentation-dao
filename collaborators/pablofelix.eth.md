@@ -1,5 +1,7 @@
 ---
 description: Marketing
+cover: ../.gitbook/assets/WhatsApp Image 2024-02-12 at 17.28.15.jpeg
+coverY: 0
 ---
 
 # 😎 pablofelix.eth
