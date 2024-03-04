@@ -1,6 +1,6 @@
 ---
 description: Founder
-cover: ../.gitbook/assets/photo_2023-06-25_17-11-22.jpg
+cover: ../.gitbook/assets/avatar_2024.png
 coverY: 0
 ---
 
