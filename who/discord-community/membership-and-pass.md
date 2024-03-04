@@ -4,6 +4,10 @@ description: Passes | Categories
 
 # Membership & Pass
 
+## Member
+
+Well, you're whitelisted and in our **WhatsApp** general chat group.
+
 ## Soft Member
 
 A person who recently came to web3. He or she didn't know how to make a wallet or the principal websites to catch some updates about the market. This pass is made for her/him. To discover a new world and to share all these stuffs.&#x20;
