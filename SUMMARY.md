@@ -69,10 +69,10 @@
 
 * [🛹 renaodigital.lens](collaborators/renaodigital.lens.md)
 * [🕵️ Rafael Caputo](collaborators/rafael-caputo.md)
-* [😎 pablofelix.eth](collaborators/pablofelix.eth.md)
 * [📱 Leonardo Passos](collaborators/leonardo-passos.md)
 
 ## 🪄 Gurus
 
+* [😎 pablofelix.eth](gurus/pablofelix.eth.md)
 * [🎨 RubimNFTs](gurus/rubimnfts.md)
 * [🎲 BC.OGB](gurus/bc.ogb.md)
