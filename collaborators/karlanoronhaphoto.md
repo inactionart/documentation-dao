@@ -1,6 +1,6 @@
 ---
 description: Member
-cover: ../.gitbook/assets/avatar_2024.png
+cover: ../.gitbook/assets/6x5ER-rz_400x400.jpg
 coverY: 0
 ---
 

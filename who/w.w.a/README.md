@@ -31,5 +31,5 @@ You have to talk that we are always converting your mind in actions, words and g
 The bright can blind you but you have to act. New technologies and update's coming. Worlds translating, rotating and you? You coming together, w/ the collective. Always iNAction, growing your own economy (regenerative) for your family and friends have a nice future. Remember it, not always alone. \
 \
 Together.\
-_**Harder, Better, Faster, Stronger**_\
-as [**Daft Punk**](https://daftpunk.fandom.com/wiki/Daft\_Punk)
+&#xNAN;_**Harder, Better, Faster, Stronger**_\
+as [**Daft Punk**](https://daftpunk.fandom.com/wiki/Daft_Punk)
