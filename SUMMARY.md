@@ -67,7 +67,8 @@
 
 ## 🌐 Collaborators
 
-* [🛹 renaodigital.lens](collaborators/renaodigital.lens.md)
+* [💻 renaodigital.lens](collaborators/renaodigital.lens.md)
+* [📸 karlanoronhaphoto](collaborators/karlanoronhaphoto.md)
 * [🕵️ Rafael Caputo](collaborators/rafael-caputo.md)
 * [📱 Leonardo Passos](collaborators/leonardo-passos.md)
 
