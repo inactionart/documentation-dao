@@ -75,5 +75,4 @@
 ## 🪄 Gurus
 
 * [😎 pablofelix.eth](gurus/pablofelix.eth.md)
-* [🎨 RubimNFTs](gurus/rubimnfts.md)
 * [🎲 BC.OGB](gurus/bc.ogb.md)
