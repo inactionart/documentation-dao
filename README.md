@@ -1,5 +1,5 @@
 ---
-description: How the DAO was originated?
+description: How this project was originated?
 cover: .gitbook/assets/_MG_0027.jpg
 coverY: 27
 ---
